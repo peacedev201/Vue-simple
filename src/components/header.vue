@@ -26,6 +26,8 @@ header {
   position: fixed !important;
   width: 100%;
   z-index: 2000;
+  padding-top: 20px;
+  padding-bottom: 20px; 
 }
 .navbar{
     background: #333;

@@ -1149,4 +1149,11 @@ table{
 li{
     display: flex;
 }
+table {
+	height:75vh;
+	overflow:auto;
+	/* overflow-x:hidden; */
+    display:block;
+    width: 100%;
+}
 </style>
